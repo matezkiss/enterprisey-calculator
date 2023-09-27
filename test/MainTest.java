@@ -1,10 +1,11 @@
-import org.junit.Assert;
-import org.junit.Test;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 
 public class MainTest {
     @Test
     public void testParseLineAdd() {
-        Assert.assertEquals(Fields.Operation.ADD, Main.parseLine("ADD 0 1").getOp());
+        Assertions.assertEquals(Fields.Operation.ADD, Main.parseLine("ADD 0 1").getOp());
     }
 }
