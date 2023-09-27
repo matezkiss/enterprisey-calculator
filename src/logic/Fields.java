@@ -1,10 +1,6 @@
+package logic;
+
 public class Fields {
-    enum Operation {
-        ADD,
-        SUB,
-        DIV,
-        MUL
-    }
 
     public int a;
 
