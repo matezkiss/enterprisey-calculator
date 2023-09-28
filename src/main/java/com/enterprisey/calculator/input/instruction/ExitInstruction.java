@@ -1,4 +1,4 @@
-package input.instruction;
+package com.enterprisey.calculator.input.instruction;
 
 public class ExitInstruction extends ExecutableInstruction {
 

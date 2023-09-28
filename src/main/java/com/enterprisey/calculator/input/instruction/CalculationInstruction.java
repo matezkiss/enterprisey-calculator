@@ -1,6 +1,6 @@
-package input.instruction;
+package com.enterprisey.calculator.input.instruction;
 
-import logic.Calculation;
+import com.enterprisey.calculator.logic.Calculation;
 
 public class CalculationInstruction extends ExecutableInstruction {
 

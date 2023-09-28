@@ -1,4 +1,4 @@
-package logic;
+package com.enterprisey.calculator.logic;
 
 public class BasicMathOperations {
     public static int add(int a, int b) {

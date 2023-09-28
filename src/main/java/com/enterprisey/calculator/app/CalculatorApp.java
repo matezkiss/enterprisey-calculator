@@ -1,10 +1,10 @@
-package app;
+package com.enterprisey.calculator.app;
 
-import input.InputParser;
-import input.instruction.Instruction;
-import logic.BasicMathOperations;
-import logic.Fields;
-import logic.Operation;
+import com.enterprisey.calculator.input.InputParser;
+import com.enterprisey.calculator.input.instruction.Instruction;
+import com.enterprisey.calculator.logic.BasicMathOperations;
+import com.enterprisey.calculator.logic.Fields;
+import com.enterprisey.calculator.logic.Operation;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package logic;
+package com.enterprisey.calculator.logic;
 
 public enum Operation {
 
